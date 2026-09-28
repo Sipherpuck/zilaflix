@@ -1,0 +1,17 @@
+{
+  "versionCode": 240,
+  "versionName": "2.4.0",
+  "minSupportedVersion": 200,
+  "forceUpdate": false,
+  "title": "ZilaFlix Pro Update Available",
+  "message": "Naya update aa chuka hai! Naye streaming servers aur performance improvements add kiye gaye hain.",
+  "changelog": [
+    "Fixed missing posters for Pushpa 2, Jawan, RRR, Animal",
+    "Added 34+ Trending South Korean Dramas & Blockbusters",
+    "Enhanced See All full category catalog view",
+    "Cleaned Settings and removed unnecessary options",
+    "Improved multi-server streaming speed and stability"
+  ],
+  "downloadUrl": "https://github.com/zilaflix/app/releases/latest/download/ZilaFlix_Pro.apk",
+  "releaseDate": "2026-09-28"
+}
