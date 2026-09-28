@@ -1,10 +1,17 @@
 {
-  "versionCode": 260,
-  "versionName": "2.6.0",
+  "versionCode": 250,
+  "versionName": "2.5.0",
   "minSupportedVersion": 200,
   "forceUpdate": false,
-  "title": "ZilaFlix Pro v2.6.0 Update Available",
-  "message": "Naya update aa gaya hai!",
+  "title": "ZilaFlix Pro v2.5.0 Update Available",
+  "message": "ZilaFlix ka naya 90+ Category Catalog aur Customization Filters update aa gaya hai!",
+  "changelog": [
+    "New 90+ Category Catalog: Trending, Hindi, South Movies, Lollywood, Anime, K-Drama, Hollywood",
+    "Customization Filters: Instant filtering by Genre ⌄, Country ⌄, and Year ⌄",
+    "Sleek 3-Column Grid matching modern streaming UI with Language Badges & Ratings",
+    "Direct category navigation from Home to full 90+ titles catalog",
+    "Search Bar with quick Search action button"
+  ],
   "downloadUrl": "https://github.com/Sipherpuck/zilaflix/releases/download/zilaflix/ZilaFlix_Pro.apk",
   "releaseDate": "2026-09-28"
 }
