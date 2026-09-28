@@ -1,17 +1,17 @@
 {
-  "versionCode": 240,
-  "versionName": "2.4.0",
+  "versionCode": 250,
+  "versionName": "2.5.0",
   "minSupportedVersion": 200,
   "forceUpdate": false,
-  "title": "ZilaFlix Pro Update Available",
-  "message": "Naya update aa chuka hai! Naye streaming servers aur performance improvements add kiye gaye hain.",
+  "title": "ZilaFlix Pro v2.5.0 Update Available",
+  "message": "ZilaFlix ka naya 90+ Category Catalog aur Customization Filters update aa gaya hai!",
   "changelog": [
-    "Fixed missing posters for Pushpa 2, Jawan, RRR, Animal",
-    "Added 34+ Trending South Korean Dramas & Blockbusters",
-    "Enhanced See All full category catalog view",
-    "Cleaned Settings and removed unnecessary options",
-    "Improved multi-server streaming speed and stability"
+    "New 90+ Category Catalog: Trending, Hindi, South Movies, Lollywood, Anime, K-Drama, Hollywood",
+    "Customization Filters: Instant filtering by Genre, Country, and Year",
+    "Sleek 3-Column Grid with Language Badges and Star Ratings",
+    "Direct category navigation from Home to full 90+ movies catalog",
+    "Search Bar with quick Search action button"
   ],
-  "downloadUrl": "https://github.com/zilaflix/app/releases/latest/download/ZilaFlix_Pro.apk",
+  "downloadUrl": "https://github.com/Sipherpuck/zilaflix/releases/download/zilaflix/ZilaFlix_Pro.apk",
   "releaseDate": "2026-09-28"
 }
